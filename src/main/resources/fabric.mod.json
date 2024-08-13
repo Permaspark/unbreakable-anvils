@@ -3,7 +3,7 @@
 	"id": "unbreakable-anvils",
 	"version": "${version}",
 	"name": "Unbreakable Anvils",
-	"description": "A simple mod to make anvils unbreakable, with a toggle feature.",
+	"description": "A simple mod that introduces an unbreakable anvil in Creative Mode, great for spawns and utility.",
 	"authors": [
 		"Ziograth"
 	],
