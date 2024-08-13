@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all",
+    "parent": "block/template_anvil",
     "textures": {
-        "all": "unbreakable-anvils:block/unbreakable_anvil"
+        "top": "unbreakable-anvils:block/unbreakable_anvil"
     }
 }

@@ -8,5 +8,6 @@ public class ExampleMod implements ModInitializer {
     @Override
     public void onInitialize() {
       ModBlocks.initialize();
+      UnbreakableAnvil.initialize();
 }
 }
