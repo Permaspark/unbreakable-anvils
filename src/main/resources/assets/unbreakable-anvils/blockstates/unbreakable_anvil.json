@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "unbreakable_anvils:block/unbreakable_anvil" }
+        "": { "model": "unbreakable-anvils:block/unbreakable_anvil" }
     }
 }
