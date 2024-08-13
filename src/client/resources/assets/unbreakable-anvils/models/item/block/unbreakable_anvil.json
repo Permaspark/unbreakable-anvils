@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "unbreakable_anvils:block/unbreakable_anvil"
+    }
+}
